@@ -1,2 +1,2 @@
 # PythonSyadmin
-Python for syadmin scripting
+Python 2.7 for syadmin scripting
